@@ -1,5 +1,3 @@
-## React Native - Guess Number Game 
-
 ## Installation
 
 You can clone this repository by writing this line : 
