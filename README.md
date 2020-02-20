@@ -15,7 +15,7 @@ npm start
 
 ## Screen Shot
 
-![Image of ScreenShot](https://raw.githubusercontent.com/mkaraa/ReactNative-GuessNumberGame/master/screenshots/Screen%20Shot%202020-02-17%20at%2015.24.21.png)
+![Image of ScreenShot](https://raw.githubusercontent.com/mkaraa/ReactNative-GuessNumberGame/master/screenshots/Screen%20Shot%202020-02-17%20at%2015.24.46.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
