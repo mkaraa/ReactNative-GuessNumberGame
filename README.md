@@ -1,4 +1,4 @@
-# React Native - Guess Number Game 
+## React Native - Guess Number Game 
 
 ## Installation
 
